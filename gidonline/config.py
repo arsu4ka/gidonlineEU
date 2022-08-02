@@ -2,4 +2,4 @@
 YOUR 2captcha API KEY
 '''
 
-API_KEY = "0d39f2e41e9270711a270368bb6040f4"
+API_KEY = ""
